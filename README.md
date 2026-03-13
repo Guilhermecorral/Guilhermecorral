@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Olá, eu sou Guilherme Corral! 👋</h1>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Estudante+de+Desenvolvimento+Back-End;Java+%2B+MySQL;Construindo+APIs+robusto+e+bancos+eficientes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=-Estudante+de+Desenvolvimento+Back-End;Java+%2B+MySQL;Construindo+APIs+robusto+e+bancos+eficientes" alt="Typing SVG" />
   
   <br/><br/>
   
