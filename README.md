@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Olá! Eu sou o Guilherme</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=435&lines=Java+Spring+Boot;MySQL+%2F+PostgreSQL;APIs+RESTful;Clean+Code+%26+Boas+Pr%C3%A1ticas" alt="Typing animation" />
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=435&lines=Desenvolvedor+Back-End;Java+|+SpringBoot;MySQL+%2F+PostgreSQL;APIs+RESTful;Clean+Code+%26+Boas+Pr%C3%A1ticas" alt="Typing animation" /></h1>
 
 ## 👨‍💻 Sobre Mim:
 Sou **Guilherme Corral Morais**, desenvolvedor **Back-End** focado em construir APIs robustas e sistemas que escalam de verdade. Meu dia a dia é com **Java**, **Spring Boot** e bancos relacionais, sempre priorizando código limpo, boas práticas e soluções práticas.
